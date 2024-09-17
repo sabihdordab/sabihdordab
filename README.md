@@ -73,7 +73,6 @@ me.say_hi()
 
 <h2 align="center">🏆 Achievements</h2>
 
-- 🏅 Contestant in ICPC at Sharif University of Technology (Team: OS or SOS)
 - 👨‍🏫 Teaching Assistant for Fundamentals of Programming (C++) at Shahid Chamran University
 
 <h2 align="center">📊 GitHub Stats</h2>
