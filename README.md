@@ -71,9 +71,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Django%20-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Advanced Django"/>
 </p>
 
-<h2 align="center">🏆 Achievements</h2>
 
-- 👨‍🏫 Teaching Assistant for Fundamentals of Programming (C++) at Shahid Chamran University
 
 <h2 align="center">📊 GitHub Stats</h2>
 
