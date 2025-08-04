@@ -10,6 +10,13 @@ I'm a Python🐍 programmer exploring **vision**, **web**, **voice**, **games** 
 
 ---
 
+## 🎬 Screenshots & Demos
+
+| Maze | Character | Voice-Puzzle |
+|:------------------------:|:------------------:|:--------------------:|
+| ![Maze](./assets/vision.gif) | ![Character](./assets/character.gif) | ![Voice-Puzzle](./assets/voice.gif) |
+
+---
 <div align="center">
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihdordab&layout=donut&theme=radical&hide_border=true)
