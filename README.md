@@ -1,26 +1,10 @@
-<div align="center">
+### Hi — my full name is **Sabiheh Dordab** (in Persian: صبیحه دردآب), but everyone calls me **Sabih**. I was born in 2003 and I’m from southern Iran.
 
-![gif](./assets/SAO.gif)
-
-</div>
-
-# Hi, I'm **Nox** - A Soul from Southern Iran 🌵
+![hi](./assets/hi2.png)
 
 I'm a Python🐍 programmer exploring **vision**, **web**, **voice**, **games** — and the **unknown**.
 
+#### :space_invader: My Weblog : [sabihverse](https://sabihverse.chbk.app/)
 ---
-
-## 🎬 Screenshots & Demos
-
-| Maze | Character | Voice-Puzzle |
-|:------------------------:|:------------------:|:--------------------:|
-| ![Maze](./assets/vision.gif) | ![Character](./assets/character.gif) | ![Voice-Puzzle](./assets/voice.gif) |
-
----
-<div align="center">
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihdordab&layout=donut&theme=radical&hide_border=true)
 
 *Feel free to explore my projects, drop an issue, or just say سلام (hello)!* 
-
-</div>
