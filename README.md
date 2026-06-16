@@ -4,7 +4,7 @@
 
 I'm a Python🐍 programmer exploring **vision**, **web**, **voice**, **games** — and the **unknown**.
 
-#### :space_invader: My Weblog : [sabihverse](https://sabihverse.site/)
+#### :space_invader: More about me : [static sabih](https://sabihdordab.github.io/static/)
 ---
 
 *Feel free to explore my projects, drop an issue, or just say سلام (hello)!* 
